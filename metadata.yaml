@@ -1,0 +1,48 @@
+_repo: De-drie-steden-Lourdes_56760
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Querido, Is. (Israël)
+    aliases:
+    - Querido, Is. (Israel)
+    - Querido, Israël
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '43176'
+    url: http://www.gutenberg.org/2009/agents/43176
+  translator:
+    agent_name: Roldanus, Willem Jacob Aarland
+    alias: Roldanus, W. J. A.
+    birthdate: 1877
+    deathdate: 1940
+    gutenberg_agent_id: '37877'
+    url: http://www.gutenberg.org/2009/agents/37877
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Émile_Zola
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: ''
+gutenberg_issued: '2018-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56760'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lourdes (France) -- Fiction'
+- !lcsh 'Christian pilgrims and pilgrimages -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Catholics -- Fiction'
+- GITenberg
+title: 'De drie steden: Lourdes'
+url: http://www.gutenberg.org/ebooks/56760
