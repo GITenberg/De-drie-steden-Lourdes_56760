@@ -1,5 +1,5 @@
 _repo: De-drie-steden-Lourdes_56760
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Querido, Is. (Israël)
@@ -17,6 +17,9 @@ contributor:
     deathdate: 1940
     gutenberg_agent_id: '37877'
     url: http://www.gutenberg.org/2009/agents/37877
+covers:
+- cover_type: archival
+  image_path: 56760-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -29,6 +32,8 @@ creator:
     - http://en.wikipedia.org/wiki/Émile_Zola
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56760#De-drie-steden-Lourdes
 gutenberg_issued: '2018-03-16'
 gutenberg_type: Text
 identifiers:
